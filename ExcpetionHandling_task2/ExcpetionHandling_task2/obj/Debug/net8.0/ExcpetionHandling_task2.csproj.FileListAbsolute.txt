@@ -1,0 +1,14 @@
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\bin\Debug\net8.0\ExcpetionHandling_task2.exe
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\bin\Debug\net8.0\ExcpetionHandling_task2.deps.json
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\bin\Debug\net8.0\ExcpetionHandling_task2.runtimeconfig.json
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\bin\Debug\net8.0\ExcpetionHandling_task2.dll
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\bin\Debug\net8.0\ExcpetionHandling_task2.pdb
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ExcpetionHandling_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ExcpetionHandling_task2.AssemblyInfoInputs.cache
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ExcpetionHandling_task2.AssemblyInfo.cs
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ExcpetionHandling_task2.csproj.CoreCompileInputs.cache
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ExcpetionHandling_task2.dll
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\refint\ExcpetionHandling_task2.dll
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ExcpetionHandling_task2.pdb
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ExcpetionHandling_task2.genruntimeconfig.cache
+C:\Users\حازم\source\repos\ExcpetionHandling_task2\ExcpetionHandling_task2\obj\Debug\net8.0\ref\ExcpetionHandling_task2.dll
